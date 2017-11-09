@@ -10,7 +10,7 @@ To get started, clone this repo and change directories:
 
 ```
 git clone https://github.com/eexwhyzee/NBA_knapsack.git
-git cd NBA_knapsack/
+cd NBA_knapsack/
 ```
 
 ## Usage
